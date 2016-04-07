@@ -1,2 +1,2 @@
 # unit-testing
-## for use with RepoSentry testing
+## For use with RepoSentry testing
